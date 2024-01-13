@@ -1,15 +1,6 @@
 # Assignment 5 - Interfaces
 In this assignment you will create a Java program that allows someone to store their recipes in one or more recipie books and print the contents of each book.  You will need to use your knowledge of Interfaces and Iterators to do this. Starter code is provided to build the recepie books and print their contents out.  You must provide the implementations it is expecting.
 
-## Assignment Submission
-You will submit your assignment using GitHub Classroom.  When you are finished and want to make your final submission, use the checkin comment "FINAL SUBMISSION":
-
-        git add .
-        git commit -m "FINAL SUBMISSION"
-        git push origin main
-
-Any submission not having this comment will be assumed to be a work-in-progress and therefore will be ignored.  This implies that you must make your final push with this commit comment before the deadline.
-
 ## Input
 None.  All input for the program is hard-coded in the starter code provided.
 
